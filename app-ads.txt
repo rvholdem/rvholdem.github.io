@@ -1,3 +1,7 @@
 # Authorized sellers for com.holdem.toddlerlock (Kids Lock)
 google.com, pub-4088273391044578, DIRECT, f08c47fec0942fa0
 unity3d.com, 5912651, DIRECT, daca6c0b-ecce-40e0-9d6e-2620e5fa913a   # Unity Ads
+pubmatic.com, 158060, RESELLER, 5d62403b186f2ace
+rubiconproject.com, 24170, RESELLER, 0bfd66d529a55807
+appnexus.com, 12878, RESELLER, f5ab79cb980f11d1
+openx.com, 537153564, RESELLER, 6a698e2ec38604c6
